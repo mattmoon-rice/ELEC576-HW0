@@ -1,0 +1,25 @@
+
+     active environment : base
+    active env location : /home/matt/anaconda3
+            shell level : 1
+       user config file : /home/matt/.condarc
+ populated config files : 
+          conda version : 4.7.10
+    conda-build version : 3.18.8
+         python version : 3.7.3.final.0
+       virtual packages : 
+       base environment : /home/matt/anaconda3  (writable)
+           channel URLs : https://repo.anaconda.com/pkgs/main/linux-64
+                          https://repo.anaconda.com/pkgs/main/noarch
+                          https://repo.anaconda.com/pkgs/r/linux-64
+                          https://repo.anaconda.com/pkgs/r/noarch
+          package cache : /home/matt/anaconda3/pkgs
+                          /home/matt/.conda/pkgs
+       envs directories : /home/matt/anaconda3/envs
+                          /home/matt/.conda/envs
+               platform : linux-64
+             user-agent : conda/4.7.10 requests/2.22.0 CPython/3.7.3 Linux/4.13.0-41-generic ubuntu/16.04.4 glibc/2.23
+                UID:GID : 1000:1000
+             netrc file : None
+           offline mode : False
+
